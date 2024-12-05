@@ -1,0 +1,53 @@
+body {
+    background-color: #F3F4F6;
+    color: #111827;
+}
+
+h1 {
+    color: #1E3A8A;
+}
+
+.navbar,
+.footer {
+    background-color: #1E3A8A;
+}
+
+.nav-link {
+    color: #F3F4F6;
+}
+
+.nav-link:hover {
+    color: #F59E0B;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.text-primary {
+    color: #1E3A8A !important;
+}
+
+.text-secondary {
+    color: #3B82F6 !important;
+}
+
+.bg-primary {
+    background-color: #1E3A8A !important;
+}
+
+.bg-secondary {
+    background-color: #3B82F6 !important;
+}
+
+.text-white {
+    color: #F3F4F6 !important;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    object-fit: cover;
+}
