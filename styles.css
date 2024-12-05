@@ -51,3 +51,7 @@ h1 {
     border-radius: 25%;
     object-fit: cover;
 }
+
+main {
+    height: 100vh;
+}
